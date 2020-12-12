@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Manmohan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mannurulz&show_icons=true&hide=contribs,prs&count_private=true&hide_border=true" />
+  <img align="left" alt="Manmohan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mannurulz&show_icons=trueinclude_all_commits=1&hide=contribs,prs&count_private=true&hide_border=true" />
 
 </details>
 
