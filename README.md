@@ -9,7 +9,7 @@
 
 [<img align="left" alt="mannurulz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mannurulz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br />
 <!--
 **mannurulz/mannurulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
+
 [![Manmohan's github stats](https://github-readme-stats.vercel.app/api?username=mannurulz&show_icons=true&theme=radical)
 
 
