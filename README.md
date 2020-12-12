@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Manmohan's github stats](https://github-readme-stats.vercel.app/api?username=mannurulz&show_icons=true&theme=radical&hide_border=true)
+[Manmohan's github stats](https://github-readme-stats.vercel.app/api?username=mannurulz&show_icons=true&theme=radical&hide_border=true)
 
 
 [instagram]: https://instagram.com/mannurulz
