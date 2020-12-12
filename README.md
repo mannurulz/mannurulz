@@ -9,6 +9,7 @@
 
 [<img align="left" alt="mannurulz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mannurulz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mishramanmohan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 <!--
 **mannurulz/mannurulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
 
 [instagram]: https://instagram.com/mannurulz
 [linkedin]: https://linkedin.com/in/manmohanmishra
+[website]: http://www.mishramanmohan.com/
