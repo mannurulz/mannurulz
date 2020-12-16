@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Father, Developer, and Learner!!
 - 🔭 I’m currently working on developing hybrid cloud based solutions using AI/ML to make positive impact on people lives.
-- 🌱 I’m currently learning Everything and Quantum computing using Criq/Qiskit
-- 👯 I’m looking to collaborate on Cloud, AI/ML & Blockchain technologies
-- 💬 Ask me about - Data Science & Engineering
+- 🌱 I’m currently learning Everything and Quantum computing using Criq/Qiskit.
+- 👯 I’m looking to collaborate on Cloud, AI/ML & Blockchain technologies.
+- 💬 Ask me about - Data Science & Engineering.
 
 ### Connect with me:
 
