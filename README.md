@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Manmohan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mannurulz&show_icons=trueinclude_all_commits=1&hide=contribs,prs&count_private=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://instagram.com/mannurulz
 [linkedin]: https://linkedin.com/in/manmohanmishra
