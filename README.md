@@ -1,10 +1,10 @@
-### Hi there 👋 I am Manmohan Mishra
+### Hi there 👋
 
 ## I'm a soul forked from astral world "master branch" for some spiritual growth and ready to be merged back.... waiting my PR to be approved :|
-- 🔭 I’m currently working on developing hybrid cloud based solutions using Data & AI to make positive impact on people lives.
-- 🌱 I’m currently learning Everything and Quantum computing using Criq/Qiskit.
-- 👯 I’m looking to collaborate on Cloud, AI/ML & Blockchain technologies.
-- 💬 Ask me about - Data Science, Engineering or anything :))
+- 🔭 currently working on developing hybrid cloud based solutions using Data, GPT & LLM-AI to make positive impact on people lives.
+- 🌱 currently learning Everything and Quantum computing using Criq/Qiskit.
+- 👯 looking to collaborate on really anything which can make some positive impact to this world.
+- 💬 Ask me about anything... either it would be good discussion or else I'll learn something new (kinda selfish you know)
 
 ### Not socially active but scrolls over the weekends...
 
