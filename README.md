@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi There 👋
 
-## I'm a soul forked from astral world "master branch" for some spiritual growth and ready to be merged back.... waiting my PR to be approved :|
-- 🔭 currently working on developing hybrid cloud based solutions using Data, GPT & LLM-AI to make positive impact on people lives.
-- 🌱 currently learning Everything and Quantum computing using Criq/Qiskit.
-- 👯 looking to collaborate on really anything which can make some positive impact to this world.
+## 
+- 🔭 I'm working on developing hybrid cloud based products using Data, GPT & LLM to make positive impact on people lives and directing human efforts for growth of mankind
+- 🌱 currently learning about Quantum computing and how to mitigate it's risks using quantum cryptography
+- 👯 looking to collaborate on really anything which can make some positive impact to this world
 - 💬 Ask me about anything... either it would be good discussion or else I'll learn something new (kinda selfish you know)
 
 ### Not socially active but scrolls over the weekends...
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 [instagram]: https://instagram.com/mannurulz
 [linkedin]: https://linkedin.com/in/manmohanmishra
